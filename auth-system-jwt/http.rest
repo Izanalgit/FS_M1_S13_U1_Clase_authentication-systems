@@ -1,0 +1,16 @@
+// Código más corto
+// Más facil de entender
+// tienes el codigo separado no todo metido en un callback
+
+// Create Read Update Delete
+
+// GET /tasks
+// GET /tasks/:taskId
+
+// POST /tasks 
+// {payload body: (title)}
+
+// PUT /tasks/:taskId 
+// {payload body: (title)}
+
+// DELETE /tasks/:taskId 
